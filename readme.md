@@ -3,9 +3,10 @@ python-reverse-text
 
 Demo python code to reverse text
 
-*clone the project
+*git clone https://github.com/akash01/python-reverse-text.git
 * go to root of the project from teminal
 	* in this case cd python-reverse-text
 * In terminal
-	* env/bin/python reverse_text.py
+	* python reverse_text.py
+	* or env/bin/python reverse_text.py
 
